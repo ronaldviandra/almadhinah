@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yudo.html" resolutions="1x" timestamp="1517382052787">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="440127238" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc_0271.jpg" crc="446214312" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0798.jpg" crc="3981530814" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u213.png" crc="3892210628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0476-2.jpg" crc="283160920" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u716-4.png" crc="65890582" ref="index"/>
+    <file name="dsc_0477.jpg" crc="115316715" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0474.jpg" crc="289754980" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0346.jpg" crc="159264469" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="57886338" seo="true" mt="1517374457128" redirect="true"/>
+</manifest>
